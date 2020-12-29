@@ -1,3 +1,6 @@
+//initiallize an npm package file
+//npm init 
+
 {
   "name": "nodelessons",
   "version": "1.0.0",
@@ -8,6 +11,9 @@
   },
   "author": "Kenny Imarah",
   "license": "ISC",
+  
+  //install dependencies
+//npm install packageName 
   "dependencies": {
     "superheroes": "^3.0.0"
   }
